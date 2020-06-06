@@ -14,13 +14,14 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --coverage",
+    "test": "react-scripts test --no-cache -u --coverage",
     "eject": "react-scripts eject"
   },
   "dependencies": {
     "@material-ui/core": "4.10.1",
     "@material-ui/icons": "4.9.1",
     "axios": "0.19.2",
+    "fontsource-roboto": "2.1.3",
     "mobx": "5.15.4",
     "mobx-react": "6.2.2",
     "mobx-state-tree": "3.16.0",
