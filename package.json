@@ -1,13 +1,17 @@
 {
   "name": "todo-app",
   "version": "0.1.0",
+  "author": "Daniel Mejia",
+  "description": "A basic todo app using react, react hooks and mobx-state-tree",
   "private": true,
   "license": "ISC",
+  "homepage": "https://danielmejiadev.github.io/todo-app",
   "bugs": {
-    "url": "https://github.com/danielmejiadev/stripe-client-js/issues"
+    "url": "https://github.com/danielmejiadev/todo-app.git/issues"
   },
-  "homepage": "https://github.com/danielmejiadev/stripe-client-js#readme",
   "scripts": {
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --coverage",
@@ -36,6 +40,7 @@
     "@types/react-dom": "16.9.0",
     "enzyme": "3.11.0",
     "enzyme-adapter-react-16": "1.15.2",
+    "gh-pages": "3.0.0",
     "react-test-renderer": "16.13.1",
     "typescript": "~3.7.2"
   },
