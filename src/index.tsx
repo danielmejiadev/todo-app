@@ -1,13 +1,15 @@
+// Dependencies
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'mobx-react-lite/batchingForReactDom'
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <React.StrictMode>
+  <React.Fragment>
     <App />
-  </React.StrictMode>,
+  </React.Fragment>,
   document.getElementById('root')
 );
 

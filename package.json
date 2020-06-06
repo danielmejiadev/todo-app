@@ -1,12 +1,12 @@
 {
   "name": "todo-app",
   "version": "0.1.0",
+  "author": "Daniel Mejia",
   "private": true,
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danielmejiadev/stripe-client-js/issues"
+    "url": "https://github.com/danielmejiadev/todo-app.git/issues"
   },
-  "homepage": "https://github.com/danielmejiadev/stripe-client-js#readme",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
