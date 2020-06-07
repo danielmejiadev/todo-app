@@ -1,22 +1,26 @@
 {
   "files": {
     "main.css": "/todo-app/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/todo-app/static/js/main.1116e7bd.chunk.js",
-    "main.js.map": "/todo-app/static/js/main.1116e7bd.chunk.js.map",
+    "main.js": "/todo-app/static/js/main.abacc24a.chunk.js",
+    "main.js.map": "/todo-app/static/js/main.abacc24a.chunk.js.map",
     "runtime-main.js": "/todo-app/static/js/runtime-main.3c9e9223.js",
     "runtime-main.js.map": "/todo-app/static/js/runtime-main.3c9e9223.js.map",
-    "static/js/2.91e7c810.chunk.js": "/todo-app/static/js/2.91e7c810.chunk.js",
-    "static/js/2.91e7c810.chunk.js.map": "/todo-app/static/js/2.91e7c810.chunk.js.map",
+    "static/css/2.3b642de3.chunk.css": "/todo-app/static/css/2.3b642de3.chunk.css",
+    "static/js/2.741d205b.chunk.js": "/todo-app/static/js/2.741d205b.chunk.js",
+    "static/js/2.741d205b.chunk.js.map": "/todo-app/static/js/2.741d205b.chunk.js.map",
     "index.html": "/todo-app/index.html",
-    "precache-manifest.8b960abf435d1ceb3944fab5e8de4f65.js": "/todo-app/precache-manifest.8b960abf435d1ceb3944fab5e8de4f65.js",
+    "precache-manifest.0bcb2a7651ce407763dfe1d121a8a40c.js": "/todo-app/precache-manifest.0bcb2a7651ce407763dfe1d121a8a40c.js",
     "service-worker.js": "/todo-app/service-worker.js",
+    "static/css/2.3b642de3.chunk.css.map": "/todo-app/static/css/2.3b642de3.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/todo-app/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.91e7c810.chunk.js.LICENSE.txt": "/todo-app/static/js/2.91e7c810.chunk.js.LICENSE.txt"
+    "static/js/2.741d205b.chunk.js.LICENSE.txt": "/todo-app/static/js/2.741d205b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/todo-app/static/media/roboto-latin-900-normal.bb1e4dc6.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.3c9e9223.js",
-    "static/js/2.91e7c810.chunk.js",
+    "static/css/2.3b642de3.chunk.css",
+    "static/js/2.741d205b.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.1116e7bd.chunk.js"
+    "static/js/main.abacc24a.chunk.js"
   ]
 }
