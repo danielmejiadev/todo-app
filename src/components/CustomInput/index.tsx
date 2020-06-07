@@ -43,7 +43,6 @@ export function CustomInput(props: CustomInputProps): React.ReactElement {
   return (
     <Paper component="form" className={classes.root} elevation={3} >
       <InputBase
-        id="input"
         className={classes.input}
         placeholder={placeholder}
         onChange={onChange}
