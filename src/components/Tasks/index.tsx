@@ -56,6 +56,7 @@ export function Tasks(props: TasksProps): React.ReactElement {
         {
           data.map((task: ITask) => (
             <CrudItem
+              key={task.id}
               text={task.description}
               onUpdate={(description) => task.update({ description })}
               onDelete={task.remove}
