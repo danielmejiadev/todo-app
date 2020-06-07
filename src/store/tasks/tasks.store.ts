@@ -46,7 +46,7 @@ const TasksStore = types
      * @param user The user to remove.
      * @returns The list of users. 
      */
-    delete: flow(function* (task: ITask) {
+    remove: flow(function* (task: ITask) {
       self.loading = true
       yield ApiClient.tasks.delete(task.id);
       destroy(task);
