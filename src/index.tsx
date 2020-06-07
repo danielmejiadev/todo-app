@@ -5,6 +5,7 @@ import 'mobx-react-lite/batchingForReactDom'
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import 'fontsource-roboto';
 
 ReactDOM.render(
   <React.Fragment>
